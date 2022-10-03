@@ -3,7 +3,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
 
-I'm Hasanol, a Freshgraduate in Electrical(Electronic) Engineering. C is my first language, exploring the world of coding.:wink: big team player. Malaysian , cartoon and Anime freak :smile:
+I'm Hasanol, a Freshgraduate in Electrical(Electronic) Engineering. C is my first language, exploring the world of coding.:wink: big team player.
 
 
 ## More About Me:man:
@@ -16,10 +16,7 @@ I'm Hasanol, a Freshgraduate in Electrical(Electronic) Engineering. C is my firs
 
 >*“Confidence is ignorance. If you're feeling cocky, it's because there's something you don't know.”.*
 
-**Currently learning with:**
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+
 
 ## Find me 🌎
 
